@@ -1,6 +1,5 @@
 <?php
-session_start();
-include '../includes/header.php';
+inclugide '../includes/header.php';
 ?>
 <style>
     html,
